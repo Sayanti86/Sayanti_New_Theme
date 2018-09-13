@@ -3,15 +3,15 @@ email:
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
+title: Sayanti_theme_test
 description: 
 url: "https://sayanti86.github.io/Sayanti_New_Theme/"
-baseurl: ""
+baseurl: "https://sayanti86.github.io/Sayanti_New_Theme/"
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: Sayanti
 profile_img: 
 profile: 
 social:
