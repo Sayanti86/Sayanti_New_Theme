@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theme forking test
-![](https://media0.giphy.com/media/JIX9t2j0ZTN9S/giphy-downsized-medium.gif)
+It feels so good when your chosen theme works . 
 
 ---
-checking the new theme
+
